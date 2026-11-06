@@ -10,39 +10,39 @@ namespace kitronik_simple_servo {
      * Selection of the servo to drive
      */
     export enum ServoChoice {
-        //% block="1"
+        //% block="0"
         servo0,
-        //% block="2"
+        //% block="1"
         servo1,
-        //% block="3"
+        //% block="2"
         servo2,
-        //% block="4"
+        //% block="3"
         servo3,
-        //% block="5"
+        //% block="4"
         servo4,
-        //% block="6"
+        //% block="5"
         servo5,
-        //% block="7"
+        //% block="6"
         servo6,
-        //% block="8"
+        //% block="7"
         servo7,
-        //% block="9"
+        //% block="8"
         servo8,
-        //% block="10"
+        //% block="9"
         servo9,
-        //% block="11"
+        //% block="10"
         servo10,
-        //% block="12"
+        //% block="11"
         servo11,
-        //% block="13"
+        //% block="12"
         servo12,
-        //% block="14"
+        //% block="13"
         servo13,
-        //% block="15"
+        //% block="14"
         servo14,
-        //% block="16"
+        //% block="15"
         servo15,
-        //% block="17"
+        //% block="16"
         servo16
     }
 
